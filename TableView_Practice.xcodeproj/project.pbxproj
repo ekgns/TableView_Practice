@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB5CFBC125CDDAC000FEE939 /* ClickCellVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB5CFBC025CDDAC000FEE939 /* ClickCellVC.swift */; };
 		AB741D9625CDA1E20082C472 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB741D9525CDA1E20082C472 /* AppDelegate.swift */; };
 		AB741D9825CDA1E20082C472 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB741D9725CDA1E20082C472 /* SceneDelegate.swift */; };
 		AB741D9A25CDA1E20082C472 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB741D9925CDA1E20082C472 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB5CFBC025CDDAC000FEE939 /* ClickCellVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClickCellVC.swift; sourceTree = "<group>"; };
 		AB741D9225CDA1E20082C472 /* TableView_Practice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableView_Practice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB741D9525CDA1E20082C472 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AB741D9725CDA1E20082C472 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				AB741D9525CDA1E20082C472 /* AppDelegate.swift */,
 				AB741D9725CDA1E20082C472 /* SceneDelegate.swift */,
 				AB741D9925CDA1E20082C472 /* ViewController.swift */,
+				AB5CFBC025CDDAC000FEE939 /* ClickCellVC.swift */,
 				AB741D9B25CDA1E20082C472 /* Main.storyboard */,
 				AB741D9E25CDA1E30082C472 /* Assets.xcassets */,
 				AB741DA025CDA1E30082C472 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				AB741D9A25CDA1E20082C472 /* ViewController.swift in Sources */,
 				AB741D9625CDA1E20082C472 /* AppDelegate.swift in Sources */,
 				AB741D9825CDA1E20082C472 /* SceneDelegate.swift in Sources */,
+				AB5CFBC125CDDAC000FEE939 /* ClickCellVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
