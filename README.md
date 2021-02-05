@@ -260,7 +260,7 @@ class ClickCellVC: UIViewController {
             }
         }
     }
-    
+   
     // MARK - close Action
     @IBAction func close(_ sender: Any) {
         
@@ -269,10 +269,9 @@ class ClickCellVC: UIViewController {
 }
 
 ```
-
-
 <img src="https://user-images.githubusercontent.com/70513066/107092687-5f8d6200-6847-11eb-958f-ee07c9af3a5b.png" width="40%">
 <img src="https://user-images.githubusercontent.com/70513066/107092770-8350a800-6847-11eb-8b17-cdb5a55f968a.png" width="40%">
 <img src="https://user-images.githubusercontent.com/70513066/107092899-ada26580-6847-11eb-9362-b0aa180e8b75.png" width="40%">
 <img src="https://user-images.githubusercontent.com/70513066/107092944-c27ef900-6847-11eb-8068-90592950fa90.png" width="40%">
+
  
